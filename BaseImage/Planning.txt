@@ -1,0 +1,21 @@
+The projects Objectives will be clearly stated in this document at respective stages of development.
+
+SERVICES WE AIM TO PROVIDE:
+    Farm tool hiering and sharing
+    Produce transportation services
+    Updated weather data
+    Updated market valuation on produce
+    Information sharing and research among farmers
+
+    ...
+
+WEBSITE CONSTRUCTION:
+    Main page:
+        States what we do and plan to do
+        ;
+            Attractive design and compeling words
+            This should have a strong yet subtle CTA(Call to Action)
+    Services page:
+        Clearly define those that we have available {This page will change with time}
+        Make it easy to find the services and use it
+         
