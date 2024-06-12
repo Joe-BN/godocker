@@ -1,2 +1,2 @@
 # godocker
-settingup this image to test my docker experience
+Setting up this repo to test my docker docker containers on a homelab in progress
